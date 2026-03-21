@@ -1,6 +1,6 @@
 # ✨ The Legendary Study ✨
 
-This is the backend that collect EIDs from [Wasmegg](https://wasmegg-carpet.netlify.app/), process them and generate daily reports showing the legendary distribution across the playerbase. The reports can be accessed on the [Wasmegg Legendary Study](https://wasmegg-carpet.netlify.app/legendary-study/).  
+This is the backend that collect EIDs from [Wasmegg](https://wasmegg-carpet.netlify.app/), process them and generate daily reports showing the legendary distribution across the playerbase. The reports can be accessed on the [Wasmegg Legendary Study](https://wasmegg-carpet.netlify.app/legendary-study/). 
 
 
 ## 🔐 EID Privacy and Security
